@@ -1,0 +1,21 @@
+{
+    "name": "frameduz-lib/bs-component",
+    "description": "Bootstrap Form",
+    "homepage": "https://github.com/frameduz-lib/bs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hanif Muhammad",
+            "email": "hanif.softdev@gmail.com",
+            "homepage": "http://hanifdeveloper.github.io/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Frameduz\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
