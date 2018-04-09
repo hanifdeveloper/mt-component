@@ -4,7 +4,7 @@ namespace Frameduz;
 class Bootstrap{
 	
 	public function getResult() {
-		echo 'testing 12345 enter';
+		echo 'testing 12345 bos enter';
 	}
 
     /**
