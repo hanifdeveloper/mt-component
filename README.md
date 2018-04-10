@@ -1,15 +1,15 @@
-# frameduz-bootstrap-component
+# frameduz-materialize-component
 
-Library Frameduz untuk membuat komponen form versi bootstrap
+Library Frameduz untuk membuat komponen form versi materialize
 
 ## Usage
 ```php
 <?php
-    use Frameduz\Bootstrap;
+    use Frameduz\Materialize;
     
-    echo Bootstrap::inputText('username', 'text', 'class="form-control"', 'placehoder="Username"');
-    echo Bootstrap::inputText('password', 'password', 'class="form-control"', 'placehoder="Password"');
-    echo Bootstrap::inputSelect('user_level', array('admin' => 'Administrator', 'user' => 'User'), 'user', 'class="form-control"');
+    echo Materialize::inputText('username', 'text', 'class="form-control"', 'placehoder="Username"');
+    echo Materialize::inputText('password', 'password', 'class="form-control"', 'placehoder="Password"');
+    echo Materialize::inputSelect('user_level', array('admin' => 'Administrator', 'user' => 'User'), 'user', 'class="form-control"');
 ?>
 ```
 

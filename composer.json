@@ -1,7 +1,7 @@
 {
-    "name": "frameduz-lib/bs-component",
-    "description": "Bootstrap Form",
-    "homepage": "https://github.com/hanifdeveloper/bs-component",
+    "name": "frameduz-lib/mt-component",
+    "description": "Materialize Form",
+    "homepage": "https://github.com/hanifdeveloper/mt-component",
     "type": "library",
     "license": "MIT",
     "authors": [
