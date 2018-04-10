@@ -7,7 +7,6 @@ class Bootstrap{
 		echo 'testing 12345 bos 21212 enter';
 	}
 
-    /**
 	public static function inputKey($nm_comp, $data){
         return '<input type="hidden" name="'.$nm_comp.'" id="'.$nm_comp.'" value="'.$data.'">';
     }
@@ -130,8 +129,6 @@ class Bootstrap{
 
         return $link_halaman.'</ul></nav>';
     }
-    
-    **/
 
 }
 
