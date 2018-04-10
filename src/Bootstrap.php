@@ -3,10 +3,6 @@ namespace Frameduz;
 
 class Bootstrap{
 	
-	public function getResult() {
-		echo 'testing 12345 bos 21212 enter';
-	}
-
 	public static function inputKey($nm_comp, $data){
         return '<input type="hidden" name="'.$nm_comp.'" id="'.$nm_comp.'" value="'.$data.'">';
     }
