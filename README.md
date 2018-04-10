@@ -13,3 +13,5 @@ Library Frameduz untuk membuat komponen form versi bootstrap
 ?>
 ```
 
+# License
+Read [MIT License](LICENSE)
